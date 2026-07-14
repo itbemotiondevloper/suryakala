@@ -375,6 +375,10 @@
 @include media-breakpoint-down(md) {
 
     //max-width: 767.98px
+    .banner-4 {
+        background-image: url(../imgs/page/homepage4/banner_mobile.jpeg);
+        background-position: center;
+    }
     .mobile-header-wrapper-style {
         .mobile-header-wrapper-inner {
             .mobile-header-top {

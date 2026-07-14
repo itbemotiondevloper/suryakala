@@ -6420,6 +6420,7 @@ input:checked + .slider:before {
   padding-bottom: 250px;
   height: 685px;
   padding-top: 80px;
+  background-image: url(../imgs/page/homepage4/banner.jpeg);
 }
 
 .box-slider-homepage-4 .card-offer {
@@ -7610,6 +7611,10 @@ a.color-brand-2:hover {
   }
 }
 @media (max-width: 767.98px) {
+  .banner-4 {
+    background-image: url(../imgs/page/homepage4/banner_mobile.jpeg);
+    background-position: center;
+  }
   .mobile-header-wrapper-style .mobile-header-wrapper-inner .mobile-header-top .mobile-header-logo a img {
     max-width: 140px;
   }
